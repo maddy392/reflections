@@ -1,0 +1,31 @@
+Que : How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Ans : It was fairly easy but very powerful tool. I can see how many times I would be needing this fc command. 
+
+Que : How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Ans : A lot of the times the entire history of a file or project is needed to go through the mistakes or improvements made. Having complete control of the history is essential to keep record of all the work done. It also helps to share our work more conveniently. 
+
+Que : What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+Ans : Pros of manually saving : 
+        1) complete control of the timing and location of saving 
+      Cons of manually saving :
+        1) If you forget, then you are dead
+
+
+Que : Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Ans : Because when we code, the different files we create are interconnected and a mistake in one can render the whole project useless. So, it is a good practice to keep track of commits of all the files. In google docs, work or excel files are fairely independant of each other.
+
+Que : How can you use the commands git log and git diff to view the history of files?
+
+Ans : use git log in a repository and it shows up a list of all the changes every done, each with a unique id. Using the id we can compare every version of the file and track the changes that were made along the way.
+
+Ques : How might using version control make you more confident to make changes that could break something?
+
+Ans : Make proper commits and then i think it is easy to make any kind of changes you want to.
+
+Que : Now that you have your workspace set up, what do you want to try using Git for?
+
+Ans : To play around with files and make changes and feel confortable playing around with git.
