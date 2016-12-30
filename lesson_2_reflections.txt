@@ -33,3 +33,9 @@ Ans : To play around with files and make changes and feel confortable playing ar
 Ques : What happens when you initialize a repository? Why do you need to do it?
 
 Ans : After using "git init" command the folder turns into a git repository. th file history and versions are tracked. It is a must if we need to perform version control.
+
+Ques : How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Ans : Staging area is like an intermediate stage between repository and working directory. I still need to learn more about it.
+
+Ques : 
