@@ -37,5 +37,3 @@ Ans : After using "git init" command the folder turns into a git repository. th 
 Ques : How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Ans : Staging area is like an intermediate stage between repository and working directory. I still need to learn more about it.
-
-Ques : lets try to commit again 
