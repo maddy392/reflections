@@ -53,3 +53,7 @@ Ans : the diagram gives us a dashboard of the process flow of the project we are
 Ques : What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Ans : It can update the work done by tow different people automatically, while keeping the history of the logs and commits intact. We need the diagram to track the past commits and their pathways.
+
+Ques : What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Ans : Automatic merging is for obvious stuff. manual is helpful to resolve conflicts.
