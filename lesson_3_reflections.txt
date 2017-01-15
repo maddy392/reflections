@@ -1,3 +1,7 @@
 Ques1 : When would you want to create a remote repository rather than keeping all your work local ?
 
 Ans1 : Whenever we would want to work from multiple sources, whether it be a friend or a different computer, working on cloud is better because it becomes accessible from all everywhere. If working personally, then working locally might work fine. You want to maximize the number of commits on your local file and then send the most relevant ones to github repository so that the online version is clean.
+
+Ques2 : Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+Ans2 : If the changes are done by someone else then you will never know what caused the changes if it is updated automatically. I think leaving every change, its acknowledgment, registering it as a commit and sharing it with GitHub should be manual. 
