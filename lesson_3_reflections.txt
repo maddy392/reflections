@@ -5,3 +5,11 @@ Ans1 : Whenever we would want to work from multiple sources, whether it be a fri
 Ques2 : Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Ans2 : If the changes are done by someone else then you will never know what caused the changes if it is updated automatically. I think leaving every change, its acknowledgment, registering it as a commit and sharing it with GitHub should be manual. 
+
+Ques3 : Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Ans3 : Fork is to copy a repository on github from github. Its a faster way to clone and push. 
+
+Clone is to copy a repository from github to local computer. It is to edit the repository with some extra code that can only be done on the local computer.
+
+Branch is executed on a single repository. It is used to experiment with the current version and creates a new set of commits outside the master branch.
