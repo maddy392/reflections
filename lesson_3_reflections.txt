@@ -1,3 +1,3 @@
 Ques1 : When would you want to create a remote repository rather than keeping all your work local ?
 
-Ans1 : Whenever we would want to work from multiple sources, whether it be a friend or a different computer, working on cloud is better because it becomes accessible from all everywhere. If working personally, then working locally might work fine.
+Ans1 : Whenever we would want to work from multiple sources, whether it be a friend or a different computer, working on cloud is better because it becomes accessible from all everywhere. If working personally, then working locally might work fine. You want to maximize the number of commits on your local file and then send the most relevant ones to github repository so that the online version is clean.
