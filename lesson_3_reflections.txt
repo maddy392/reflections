@@ -13,3 +13,7 @@ Ans3 : Fork is to copy a repository on github from github. Its a faster way to c
 Clone is to copy a repository from github to local computer. It is to edit the repository with some extra code that can only be done on the local computer.
 
 Branch is executed on a single repository. It is used to experiment with the current version and creates a new set of commits outside the master branch.
+
+Ques4: What is the benefit of having a copy of the last known state of the remote stored locally?
+
+Ans4: Its beautiful. When we clone from GitHub repository, the local copy has a commit history of the all the commits, and we can compare the changes we made to our local copy to the version on the github repository easily. 
