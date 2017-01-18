@@ -17,3 +17,7 @@ Branch is executed on a single repository. It is used to experiment with the cur
 Ques4: What is the benefit of having a copy of the last known state of the remote stored locally?
 
 Ans4: Its beautiful. When we clone from GitHub repository, the local copy has a commit history of the all the commits, and we can compare the changes we made to our local copy to the version on the github repository easily. 
+
+Ques5: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Ans5: Without Git or GitHub, for each change we woul have to make a separate memo, share the whole code and keep sending files via mail or share them over cloud. But with GitHub all these tasks are simplified manifold. Also, you have a standardised procedure at Git so that everyone can follow it. 
