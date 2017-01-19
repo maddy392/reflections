@@ -21,3 +21,7 @@ Ans4: Its beautiful. When we clone from GitHub repository, the local copy has a 
 Ques5: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 Ans5: Without Git or GitHub, for each change we woul have to make a separate memo, share the whole code and keep sending files via mail or share them over cloud. But with GitHub all these tasks are simplified manifold. Also, you have a standardised procedure at Git so that everyone can follow it. 
+
+Ques6: When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+And6: It is good for collaboration. If I am alone, I will do everything on master but if i am working with someone else it is better to use pull request, use fetch and not pull, merge then locally, send the branch to GitHub, confirm that the merge to master has no conflicts (merge button is green), and delete that branch. That way we are more clear about the changes we do while we collaborate.
